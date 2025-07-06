@@ -50,6 +50,6 @@ After 10 epochs of training, the model achieved:
 
 ## 🙏 Acknowledgements
 
-`Model`: Bio_ClinicalBERT
-`Data`: Publicly available symptom-disease datasets from Kaggle
-`Framework`: Hugging Face Transformers
+- `Model`: Bio_ClinicalBERT
+- `Data`: Publicly available symptom-disease datasets from Kaggle
+- `Framework`: Hugging Face Transformers
